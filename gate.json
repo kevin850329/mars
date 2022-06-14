@@ -1,0 +1,28 @@
+{
+    "version":{
+        "iOS":{
+            "versionName":"1.0.0",
+            "isForce":false,
+            "downloadUrl":"https://www.leonelee.cn/app/app.ipa"
+        },
+        "Android":{
+            "versionName":"1.0.2",
+            "versionCode":102,
+            "isForce":false,
+            "downloadUrl":"https://www.leonelee.cn/app/app.apk"
+        }
+    },
+    "gate":{
+        "strategy":"rand",
+        "arr":[
+            "http:///proxy1.fapipi.com",
+            "http:///proxy1.kunhangdai.com",
+            "http:///proxy2.fapipi.com",
+            "http:///proxy2.kunhangdai.com",
+            "http:///proxy3.fapipi.com",
+            "http:///proxy3.kunhangdai.com",
+            "http:///proxy4.fapipi.com",
+            "http:///proxy4.kunhangdai.com",
+        ]
+    }
+}
