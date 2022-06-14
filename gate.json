@@ -22,13 +22,17 @@
             "http:///proxy3.fapipi.com",
             "http:///proxy3.kunhangdai.com",
             "http:///proxy4.fapipi.com",
-            "http:///proxy4.kunhangdai.com",
+            "http:///proxy4.kunhangdai.com"
         ]
     },
     "resourceUrl":[
-        "https://gitee.com/runningstar/mars/raw/master/gate.json",
-        "https://gitee.com/runningstar/mars/raw/master/gate.json",
-        "https://gitee.com/runningstar/mars/raw/master/gate.json",
-        "https://gitee.com/runningstar/mars/raw/master/gate.json"
+        "http:///proxy1.fapipi.com/gate.json",
+        "http:///proxy1.kunhangdai.com/gate.json",
+        "http:///proxy2.fapipi.com/gate.json",
+        "http:///proxy2.kunhangdai.com/gate.json",
+        "http:///proxy3.fapipi.com/gate.json",
+        "http:///proxy3.kunhangdai.com/gate.json",
+        "http:///proxy4.fapipi.com/gate.json",
+        "http:///proxy4.kunhangdai.com/gate.json"
     ]
 }
