@@ -24,5 +24,11 @@
             "http:///proxy4.fapipi.com",
             "http:///proxy4.kunhangdai.com",
         ]
-    }
+    },
+    "resourceUrl":[
+        "https://gitee.com/runningstar/mars/raw/master/gate.json",
+        "https://gitee.com/runningstar/mars/raw/master/gate.json",
+        "https://gitee.com/runningstar/mars/raw/master/gate.json",
+        "https://gitee.com/runningstar/mars/raw/master/gate.json"
+    ]
 }
