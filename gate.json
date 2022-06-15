@@ -6,8 +6,8 @@
             "downloadUrl":"https://www.leonelee.cn/app/app.ipa"
         },
         "Android":{
-            "versionName":"1.0.2",
-            "versionCode":102,
+            "versionName":"1.0.3",
+            "versionCode":103,
             "isForce":false,
             "downloadUrl":"https://www.leonelee.cn/app/app.apk"
         }
@@ -26,6 +26,7 @@
         ]
     },
     "resourceUrl":[
+        "https://gitee.com/runningstar/mars/raw/master/gate.json",
         "http://proxy1.fapipi.com/gate.json",
         "http://proxy1.kunhangdai.com/gate.json",
         "http://proxy2.fapipi.com/gate.json",
