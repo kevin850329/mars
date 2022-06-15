@@ -13,7 +13,7 @@
         }
     },
     "gate":{
-        "strategy":"rand",
+        "strategy":"loop",
         "arr":[
             "http://proxy1.fapipi.com",
             "http://proxy1.kunhangdai.com",
