@@ -34,5 +34,6 @@
         "http://proxy3.kunhangdai.com/gate.json",
         "http://proxy4.fapipi.com/gate.json",
         "http://proxy4.kunhangdai.com/gate.json"
-    ]
+    ],
+    "time":30
 }
