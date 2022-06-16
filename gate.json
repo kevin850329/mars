@@ -15,7 +15,7 @@
     "gate":{
         "strategy":"loop",
         "arr":[
-            "http://proxy1.fapipi.com",
+            "http://148.66.61.234",
             "http://proxy1.kunhangdai.com",
             "http://proxy2.fapipi.com",
             "http://proxy2.kunhangdai.com",
