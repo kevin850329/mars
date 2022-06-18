@@ -6,10 +6,10 @@
             "downloadUrl":"https://www.leonelee.cn/app/app.ipa"
         },
         "Android":{
-            "versionName":"1.0.3",
-            "versionCode":103,
+            "versionName":"1.0.4",
+            "versionCode":104,
             "isForce":false,
-            "downloadUrl":"https://www.leonelee.cn/app/app.apk"
+            "downloadUrl":"http://123.60.44.3/app/app.apk"
         }
     },
     "gate":{
