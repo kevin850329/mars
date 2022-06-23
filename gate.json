@@ -1,13 +1,13 @@
 {
     "version":{
         "iOS":{
-            "versionName":"1.0.5",
+            "versionName":"1.0.6",
             "isForce":false,
             "downloadUrl":"itms-services://?action=download-manifest&url=https://www.leonelee.cn/app/manifest.plist"
         },
         "Android":{
-            "versionName":"1.0.4",
-            "versionCode":104,
+            "versionName":"1.0.5",
+            "versionCode":105,
             "isForce":false,
             "downloadUrl":"https://www.leonelee.cn/app/app.apk"
         }
