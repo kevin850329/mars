@@ -12,30 +12,15 @@
             "downloadUrl":"https://www.leonelee.cn/app/app.apk"
         }
     },
-    "gate":{
-        "strategy":"loop",
-        "arr":[
-            "https://www.dadadafenqi.com",
-            "http://148.66.61.234",
-            "http://proxy1.kunhangdai.com",
-            "http://proxy2.fapipi.com",
-            "http://proxy2.kunhangdai.com",
-            "http://proxy3.fapipi.com",
-            "http://proxy3.kunhangdai.com",
-            "http://proxy4.fapipi.com",
-            "http://proxy4.kunhangdai.com"
+    "gate": {
+        "strategy": "loop",
+        "arr": [
+            "http://47.100.122.101",
+            "http://101.132.117.63"
         ]
     },
-    "resourceUrl":[
-        "https://gitee.com/runningstar/mars/raw/master/gate.json",
-        "http://proxy1.fapipi.com/gate.json",
-        "http://proxy1.kunhangdai.com/gate.json",
-        "http://proxy2.fapipi.com/gate.json",
-        "http://proxy2.kunhangdai.com/gate.json",
-        "http://proxy3.fapipi.com/gate.json",
-        "http://proxy3.kunhangdai.com/gate.json",
-        "http://proxy4.fapipi.com/gate.json",
-        "http://proxy4.kunhangdai.com/gate.json"
+    "resourceUrl": [
+        "https://gitee.com/runningstar/mars/raw/master/gate.json"
     ],
     "time":30
 }
