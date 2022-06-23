@@ -1,7 +1,7 @@
 {
     "version":{
         "iOS":{
-            "versionName":"1.0.6",
+            "versionName":"1.0.5",
             "isForce":false,
             "downloadUrl":"itms-services://?action=download-manifest&url=https://www.leonelee.cn/app/manifest.plist"
         },
