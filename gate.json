@@ -20,7 +20,10 @@
         ]
     },
     "resourceUrl": [
-        "https://gitee.com/runningstar/mars/raw/master/gate.json"
+        "https://gitee.com/runningstar/mars/raw/master/gate.json",
+        "http://47.100.122.101/gate.json",
+        "http://101.132.117.63/gate.json",
+        "https://raw.githubusercontent.com/kevin850329/mars/main/gate.json"
     ],
     "time":30
 }
