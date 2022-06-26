@@ -1,15 +1,15 @@
 {
     "version": {
         "iOS": {
-            "versionName": "1.0.7",
+            "versionName": "1.0.1",
             "isForce": false,
-            "downloadUrl": "itms-services://?action=download-manifest&url=https://www.dengzemiao.cn/app/manifest.plist"
+            "downloadUrl": "itms-services://?action=download-manifest&url=https://www.0597100.com.cn/app/manifest.plist"
         },
         "Android": {
-            "versionName": "1.0.6",
-            "versionCode": 106,
+            "versionName": "1.0.1",
+            "versionCode": 101,
             "isForce": false,
-            "downloadUrl": "https://www.dengzemiao.cn/app/app.apk"
+            "downloadUrl": "https://www.0597100.com.cn/app/app.apk"
         }
     },
     "gate": {
